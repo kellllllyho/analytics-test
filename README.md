@@ -5,11 +5,12 @@ This dbt project aims to transform and analyse e-commerce data from our database
 
 
 Running the Project:
-- Run Transformations
-    -- dbt run
-- Run Tests
-    -- dbt Tests
-- Generate documentation 
-    -- dbt docs generate
 
+Run Transformations
+- `dbt run`
 
+Run Tests
+- `dbt tests`
+
+Generate Documentation 
+- `dbt docs generate`
