@@ -11,4 +11,4 @@ select
     -- dates
     created as created_at
 
-from {{ source('stripe', 'payment') }}
+from {{ source("stripe", "payment") }}
